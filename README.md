@@ -11,7 +11,7 @@
 <h3 align="center">A passionate website developer and brand designer</h3>
 
 
-- ✨ Creating brands and websites  2020<br>
+- ✨ Creating brands and websites since 2020<br>
 
 - 🔭 I’m currently working on **Protea website**
 
