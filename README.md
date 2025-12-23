@@ -25,7 +25,7 @@
 
 - 🎲 Unfunctionable without a morning coffee</p>
 
-- 📫 Feel free to drop me a messge: **hello@iamtania.ru**
+- 📫 Feel free to drop me a message: **hello@iamtania.ru**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
